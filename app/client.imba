@@ -101,6 +101,6 @@ tag app-footer
 			"made by " 
 			<a href="https://github.com/ericvida/" target="_blank"> "@ericvida • "
 			"with "
-			<a href="https://imba.io" target="_blank"> "Imba"
+			<a href="https://imba.io" target="_blank"> "Imba 2"
 			
 imba.mount <css-to-imba>
